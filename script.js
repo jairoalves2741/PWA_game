@@ -4,4 +4,4 @@ if ("serviceWorker" in navigator) {
         .then(() => console.log("Service Worker registrado!"))
         .catch((err) => console.error("Erro no registro do Service Worker:", err));
 }
-        
+

@@ -1,18 +1,33 @@
 {
     "name": "Rock, Paper, Scissors",
-        "short_name": "RPS",
-            "start_url": "/index.html",
-                "display": "standalone",
-                    "icons": [
-                        {
-                            "src": "/icons/icon-192x192.png",
-                            "sizes": "192x192",
-                            "type": "image/png"
-                        },
-                        {
-                            "src": "/icons/icon-512x512.png",
-                            "sizes": "512x512",
-                            "type": "image/png"
-                        }
-                    ]
+    "short_name": "RPS",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/icons/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/stone.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/paper.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/scissor.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
 }
